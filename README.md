@@ -4,5 +4,5 @@
 * [Github Page](https://rheznandyae.github.io/os211/)
 
 ## Top Ten Links
-* [Week01-Top Ten links](./W01)
-* [Week02-Top Ten links](./W02)
+* [Week01-Top Ten links](./W01/)
+* [Week02-Top Ten links](./W02/)
