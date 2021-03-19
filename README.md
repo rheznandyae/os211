@@ -2,7 +2,7 @@
 
 ## Operating Systems 2021-1 (Semester Genap 2020/2021)
 * [Github Page](https://rheznandyae.github.io/os211/)
-* [OS211 Github Repository] (https://github.com/rheznandyae/os211/)
+* [OS211 Github Repository](https://github.com/rheznandyae/os211/)
 * [OS211 Log](https://rheznandyae.github.io/os211/TXT/mylog.txt)
 * [KEY](https://rheznandyae.github.io/os211/TXT/mypubkey.txt)
 * [RANK](https://rheznandyae.github.io/os211/TXT/myrank.txt)
