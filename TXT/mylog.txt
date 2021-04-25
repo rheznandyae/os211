@@ -29,3 +29,6 @@ ZCZC W05  20 L11 Assignment #9
 ZCZC W05  15 L11 Assignment #6
 ZCZC W05 180 L11 Assignment #4
 ZCZC W05 150 L23 Discord: discussion about top
+ZCZC W06 80 L02 ZOOM Sync 8 April 2021
+ZCZC W06 90 L10 W06 Assignments
+ZCZC W06 90 L23 Discord: assignments discussion
