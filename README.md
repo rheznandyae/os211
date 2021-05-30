@@ -17,3 +17,4 @@
 * [Week07-Top Ten links](./W07/)
 * [Week08-Top Ten links](./W08/)
 * [Week09-Top Ten links](./W09/)
+* [Week10-Tips For OS212](./W10/)
